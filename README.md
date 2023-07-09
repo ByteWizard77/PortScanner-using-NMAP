@@ -15,7 +15,7 @@ Prerequisites
 NMAP: Make sure NMAP is installed on your system. You can download it from the official NMAP website (https://nmap.org/).
 
 Installation
-* Clone the repository: git clone https://github.com/your-username/portscanner-nmap.git
+* Clone the repository: git clone https://github.com/ByteWizard77/portscanner-nmap.git
 * Change into the project directory: cd portscanner-nmap
 * Install the required dependencies: pip install -r requirements.txt
   
